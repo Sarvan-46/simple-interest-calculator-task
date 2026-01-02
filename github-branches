@@ -1,0 +1,6 @@
+Command:
+git branch -vv
+
+Output:
+* main        2191949 [origin/main] Minor typo fix
+  bug-fix-typo a1b2c3d Fix typo in README
